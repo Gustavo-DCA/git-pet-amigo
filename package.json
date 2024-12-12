@@ -1,0 +1,14 @@
+{
+  "name": "pet-amigo",
+  "version": "1.0.0",
+  "description": "Um site para ajudar animais abandonados a encontrar lares amorosos.",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js"
+  },
+  "author": "Seu Nome",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
